@@ -1,0 +1,1 @@
+Open index.html to preview the live site with all 70 actual Masters spreadsheet entries. Expand the pool leaderboard to see all entries.
